@@ -27,5 +27,5 @@ Anyway, this new fork is:
 - [Hancapo/fivefury](https://github.com/Hancapo/fivefury), for the MP3 AWC layout, which the import logic follows closely
 - [vgmstream/vgmstream](https://github.com/vgmstream/vgmstream), for notes on AWC codecs and repeated frames at block starts
 
-**External tool, not included:**
+**External tool, included:**
 - [FFmpeg](https://ffmpeg.org) with LAME, for encoding MP3 on import
